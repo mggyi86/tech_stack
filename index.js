@@ -1,5 +1,5 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import App from './src/app';
 
 AppRegistry.registerComponent('tech_stack', () => App);
 // echo 256 | sudo tee -a /proc/sys/fs/inotify/max_user_instances
